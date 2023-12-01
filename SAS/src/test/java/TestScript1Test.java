@@ -9,6 +9,7 @@ public class TestScript1Test {
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.amazon.in");
+		System.out.println("jine ke hai 4 din oooo baki hai bekar din oooo jaye jaye jawani fir na aye oooo");
 	}
 
 }
