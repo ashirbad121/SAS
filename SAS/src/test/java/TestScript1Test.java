@@ -11,6 +11,8 @@ public class TestScript1Test {
 		driver.get("https://www.amazon.in");
 		System.out.println("jine ke hai 4 din oooo baki hai bekar din oooo jaye jaye jawani fir na aye oooo");
 		System.out.println("helloooooooo");
+
+		System.out.println("animal deklhnma paisa do sir");
 	}
 
 }
